@@ -1,9 +1,9 @@
 # Practicum_project_6
- My sixth project from Practicum course
+ My sixth project from Practicum course. "Business Analytics"
 
  What was used in the project: Python, Jupyter notebook. Libraries: pandas, numpy, plotly, matplotlib, seaborn.
 
-Project Description
+# Project Description
 
 I've been offered an internship in the analytical department at Yandex.Afisha. My first task is to help optimize marketing expenses.
 
